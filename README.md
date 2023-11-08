@@ -1,7 +1,8 @@
-# JavaArrayObject
- 
-<code>in React i can create array object like this:
- 
+##  Java Array Object
+Implemented by: Plipus Tel <a href="https://www.plipus.tel.com" target="_blank">https://www.plipustel.com</a><p>
+
+In React, it possible to create an array object like this, how would looks like in Java?
+<code>
 	const[cars, setCar] = useState(
 	[{
 		model: 'SUV',

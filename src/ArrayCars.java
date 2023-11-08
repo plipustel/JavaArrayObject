@@ -6,6 +6,7 @@
  * 
  */
 
+/* Car Object */
 class Car {
 	
 	/* Attributes */
